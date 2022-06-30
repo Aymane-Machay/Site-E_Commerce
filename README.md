@@ -8,5 +8,5 @@ Ajout dynamique de marchandise.
 Avis sur les produits, panier et reçu de commande.
 Backlog de tous les actions pour l'admin.
 
-Pas: 
+Ps: 
 due à des erreurs persistantes sur Heroku, on n'est pas arrivé a lancer le site sur le serveur. Il reste tout de même complètement opérationnelle.
